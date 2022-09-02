@@ -126,12 +126,14 @@ footer {
 
 main {
 	
+	
 
 }
 
 form {
-	margin: 40px 0;
 
+	margin: 40px 60px;
+	
 }
 
 form label, form legend {
@@ -159,7 +161,7 @@ form label, form legend {
 
 	width: 40%;
 	padding: 15px 0;
-	background: orange;
+	background: rgb(16, 15, 18);
 	color: white;
 	font-weight: bolder;
 	font-size: 18px;
@@ -172,13 +174,15 @@ form label, form legend {
 
 .enviar:hover {
 
-	background: darkorange;
-	transform: scale(1.2);
+	background: rgb(158, 156, 154);
+	transform: scale(1.1);
+	opacity: 90%;
 
 }
 
 table {
-	margin: 20px 0 40px;
+	margin: 20px 60px 40px;
+
 }
 
 thead {
